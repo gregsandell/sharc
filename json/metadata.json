@@ -1,0 +1,5548 @@
+[
+	{
+		"instname": "alto_trombone",
+		"notes": [
+			{
+				"note": "f4",
+				"file": "json/alto_trombone/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/alto_trombone/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/alto_trombone/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/alto_trombone/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/alto_trombone/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/alto_trombone/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/alto_trombone/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/alto_trombone/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/alto_trombone/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/alto_trombone/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/alto_trombone/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/alto_trombone/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/alto_trombone/f5.json"
+			}
+		]
+	},
+	{
+		"instname": "altoflute_vibrato",
+		"notes": [
+			{
+				"note": "g3",
+				"file": "json/altoflute_vibrato/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/altoflute_vibrato/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/altoflute_vibrato/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/altoflute_vibrato/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/altoflute_vibrato/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/altoflute_vibrato/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/altoflute_vibrato/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/altoflute_vibrato/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/altoflute_vibrato/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/altoflute_vibrato/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/altoflute_vibrato/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/altoflute_vibrato/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/altoflute_vibrato/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/altoflute_vibrato/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/altoflute_vibrato/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/altoflute_vibrato/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/altoflute_vibrato/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/altoflute_vibrato/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/altoflute_vibrato/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/altoflute_vibrato/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/altoflute_vibrato/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/altoflute_vibrato/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/altoflute_vibrato/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/altoflute_vibrato/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/altoflute_vibrato/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/altoflute_vibrato/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/altoflute_vibrato/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/altoflute_vibrato/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/altoflute_vibrato/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/altoflute_vibrato/c6.json"
+			}
+		]
+	},
+	{
+		"instname": "Bach_trumpet",
+		"notes": [
+			{
+				"note": "b3",
+				"file": "json/Bach_trumpet/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/Bach_trumpet/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/Bach_trumpet/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/Bach_trumpet/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/Bach_trumpet/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/Bach_trumpet/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/Bach_trumpet/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/Bach_trumpet/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/Bach_trumpet/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/Bach_trumpet/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/Bach_trumpet/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/Bach_trumpet/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/Bach_trumpet/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/Bach_trumpet/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/Bach_trumpet/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/Bach_trumpet/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/Bach_trumpet/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/Bach_trumpet/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/Bach_trumpet/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/Bach_trumpet/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/Bach_trumpet/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/Bach_trumpet/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/Bach_trumpet/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/Bach_trumpet/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/Bach_trumpet/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/Bach_trumpet/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/Bach_trumpet/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/Bach_trumpet/d6.json"
+			},
+			{
+				"note": "d#6",
+				"file": "json/Bach_trumpet/ds6.json"
+			},
+			{
+				"note": "e6",
+				"file": "json/Bach_trumpet/e6.json"
+			},
+			{
+				"note": "f6",
+				"file": "json/Bach_trumpet/f6.json"
+			},
+			{
+				"note": "f#6",
+				"file": "json/Bach_trumpet/fs6.json"
+			}
+		]
+	},
+	{
+		"instname": "bass_clarinet",
+		"notes": [
+			{
+				"note": "c#2",
+				"file": "json/bass_clarinet/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/bass_clarinet/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/bass_clarinet/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/bass_clarinet/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/bass_clarinet/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/bass_clarinet/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/bass_clarinet/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/bass_clarinet/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/bass_clarinet/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/bass_clarinet/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/bass_clarinet/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/bass_clarinet/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/bass_clarinet/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/bass_clarinet/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/bass_clarinet/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/bass_clarinet/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/bass_clarinet/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/bass_clarinet/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/bass_clarinet/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/bass_clarinet/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/bass_clarinet/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/bass_clarinet/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/bass_clarinet/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/bass_clarinet/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/bass_clarinet/cs4.json"
+			}
+		]
+	},
+	{
+		"instname": "bass_trombone",
+		"notes": [
+			{
+				"note": "f1",
+				"file": "json/bass_trombone/f1.json"
+			},
+			{
+				"note": "f#1",
+				"file": "json/bass_trombone/fs1.json"
+			},
+			{
+				"note": "g1",
+				"file": "json/bass_trombone/g1.json"
+			},
+			{
+				"note": "g#1",
+				"file": "json/bass_trombone/gs1.json"
+			},
+			{
+				"note": "a1",
+				"file": "json/bass_trombone/a1.json"
+			},
+			{
+				"note": "a#1",
+				"file": "json/bass_trombone/as1.json"
+			},
+			{
+				"note": "b1",
+				"file": "json/bass_trombone/b1.json"
+			},
+			{
+				"note": "c2",
+				"file": "json/bass_trombone/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/bass_trombone/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/bass_trombone/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/bass_trombone/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/bass_trombone/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/bass_trombone/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/bass_trombone/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/bass_trombone/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/bass_trombone/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/bass_trombone/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/bass_trombone/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/bass_trombone/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/bass_trombone/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/bass_trombone/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/bass_trombone/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/bass_trombone/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/bass_trombone/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/bass_trombone/f3.json"
+			}
+		]
+	},
+	{
+		"instname": "bassflute_vibrato",
+		"notes": [
+			{
+				"note": "c3",
+				"file": "json/bassflute_vibrato/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/bassflute_vibrato/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/bassflute_vibrato/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/bassflute_vibrato/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/bassflute_vibrato/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/bassflute_vibrato/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/bassflute_vibrato/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/bassflute_vibrato/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/bassflute_vibrato/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/bassflute_vibrato/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/bassflute_vibrato/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/bassflute_vibrato/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/bassflute_vibrato/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/bassflute_vibrato/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/bassflute_vibrato/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/bassflute_vibrato/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/bassflute_vibrato/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/bassflute_vibrato/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/bassflute_vibrato/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/bassflute_vibrato/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/bassflute_vibrato/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/bassflute_vibrato/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/bassflute_vibrato/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/bassflute_vibrato/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/bassflute_vibrato/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/bassflute_vibrato/cs5.json"
+			}
+		]
+	},
+	{
+		"instname": "bassoon",
+		"notes": [
+			{
+				"note": "a#1",
+				"file": "json/bassoon/as1.json"
+			},
+			{
+				"note": "b1",
+				"file": "json/bassoon/b1.json"
+			},
+			{
+				"note": "c2",
+				"file": "json/bassoon/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/bassoon/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/bassoon/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/bassoon/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/bassoon/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/bassoon/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/bassoon/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/bassoon/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/bassoon/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/bassoon/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/bassoon/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/bassoon/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/bassoon/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/bassoon/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/bassoon/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/bassoon/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/bassoon/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/bassoon/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/bassoon/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/bassoon/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/bassoon/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/bassoon/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/bassoon/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/bassoon/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/bassoon/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/bassoon/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/bassoon/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/bassoon/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/bassoon/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/bassoon/f4.json"
+			}
+		]
+	},
+	{
+		"instname": "Bb_clarinet",
+		"notes": [
+			{
+				"note": "d3",
+				"file": "json/Bb_clarinet/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/Bb_clarinet/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/Bb_clarinet/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/Bb_clarinet/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/Bb_clarinet/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/Bb_clarinet/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/Bb_clarinet/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/Bb_clarinet/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/Bb_clarinet/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/Bb_clarinet/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/Bb_clarinet/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/Bb_clarinet/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/Bb_clarinet/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/Bb_clarinet/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/Bb_clarinet/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/Bb_clarinet/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/Bb_clarinet/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/Bb_clarinet/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/Bb_clarinet/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/Bb_clarinet/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/Bb_clarinet/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/Bb_clarinet/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/Bb_clarinet/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/Bb_clarinet/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/Bb_clarinet/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/Bb_clarinet/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/Bb_clarinet/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/Bb_clarinet/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/Bb_clarinet/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/Bb_clarinet/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/Bb_clarinet/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/Bb_clarinet/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/Bb_clarinet/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/Bb_clarinet/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/Bb_clarinet/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/Bb_clarinet/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/Bb_clarinet/d6.json"
+			}
+		]
+	},
+	{
+		"instname": "C_trumpet",
+		"notes": [
+			{
+				"note": "f#3",
+				"file": "json/C_trumpet/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/C_trumpet/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/C_trumpet/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/C_trumpet/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/C_trumpet/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/C_trumpet/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/C_trumpet/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/C_trumpet/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/C_trumpet/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/C_trumpet/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/C_trumpet/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/C_trumpet/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/C_trumpet/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/C_trumpet/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/C_trumpet/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/C_trumpet/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/C_trumpet/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/C_trumpet/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/C_trumpet/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/C_trumpet/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/C_trumpet/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/C_trumpet/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/C_trumpet/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/C_trumpet/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/C_trumpet/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/C_trumpet/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/C_trumpet/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/C_trumpet/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/C_trumpet/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/C_trumpet/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/C_trumpet/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/C_trumpet/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/C_trumpet/d6.json"
+			},
+			{
+				"note": "d#6",
+				"file": "json/C_trumpet/ds6.json"
+			}
+		]
+	},
+	{
+		"instname": "C_trumpet_muted",
+		"notes": [
+			{
+				"note": "f#3",
+				"file": "json/C_trumpet_muted/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/C_trumpet_muted/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/C_trumpet_muted/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/C_trumpet_muted/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/C_trumpet_muted/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/C_trumpet_muted/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/C_trumpet_muted/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/C_trumpet_muted/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/C_trumpet_muted/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/C_trumpet_muted/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/C_trumpet_muted/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/C_trumpet_muted/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/C_trumpet_muted/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/C_trumpet_muted/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/C_trumpet_muted/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/C_trumpet_muted/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/C_trumpet_muted/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/C_trumpet_muted/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/C_trumpet_muted/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/C_trumpet_muted/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/C_trumpet_muted/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/C_trumpet_muted/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/C_trumpet_muted/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/C_trumpet_muted/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/C_trumpet_muted/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/C_trumpet_muted/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/C_trumpet_muted/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/C_trumpet_muted/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/C_trumpet_muted/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/C_trumpet_muted/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/C_trumpet_muted/c6.json"
+			}
+		]
+	},
+	{
+		"instname": "CB",
+		"notes": [
+			{
+				"note": "c1",
+				"file": "json/CB/c1.json"
+			},
+			{
+				"note": "c#1",
+				"file": "json/CB/cs1.json"
+			},
+			{
+				"note": "d1",
+				"file": "json/CB/d1.json"
+			},
+			{
+				"note": "d#1",
+				"file": "json/CB/ds1.json"
+			},
+			{
+				"note": "e1",
+				"file": "json/CB/e1.json"
+			},
+			{
+				"note": "f1",
+				"file": "json/CB/f1.json"
+			},
+			{
+				"note": "f#1",
+				"file": "json/CB/fs1.json"
+			},
+			{
+				"note": "g1",
+				"file": "json/CB/g1.json"
+			},
+			{
+				"note": "g#1",
+				"file": "json/CB/gs1.json"
+			},
+			{
+				"note": "a1",
+				"file": "json/CB/a1.json"
+			},
+			{
+				"note": "a#1",
+				"file": "json/CB/as1.json"
+			},
+			{
+				"note": "b1",
+				"file": "json/CB/b1.json"
+			},
+			{
+				"note": "c2",
+				"file": "json/CB/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/CB/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/CB/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/CB/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/CB/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/CB/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/CB/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/CB/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/CB/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/CB/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/CB/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/CB/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/CB/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/CB/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/CB/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/CB/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/CB/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/CB/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/CB/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/CB/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/CB/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/CB/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/CB/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/CB/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/CB/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/CB/cs4.json"
+			}
+		]
+	},
+	{
+		"instname": "CB_martele",
+		"notes": [
+			{
+				"note": "c1",
+				"file": "json/CB_martele/c1.json"
+			},
+			{
+				"note": "c#1",
+				"file": "json/CB_martele/cs1.json"
+			},
+			{
+				"note": "d1",
+				"file": "json/CB_martele/d1.json"
+			},
+			{
+				"note": "d#1",
+				"file": "json/CB_martele/ds1.json"
+			},
+			{
+				"note": "e1",
+				"file": "json/CB_martele/e1.json"
+			},
+			{
+				"note": "f1",
+				"file": "json/CB_martele/f1.json"
+			},
+			{
+				"note": "f#1",
+				"file": "json/CB_martele/fs1.json"
+			},
+			{
+				"note": "g1",
+				"file": "json/CB_martele/g1.json"
+			},
+			{
+				"note": "g#1",
+				"file": "json/CB_martele/gs1.json"
+			},
+			{
+				"note": "a1",
+				"file": "json/CB_martele/a1.json"
+			},
+			{
+				"note": "a#1",
+				"file": "json/CB_martele/as1.json"
+			},
+			{
+				"note": "b1",
+				"file": "json/CB_martele/b1.json"
+			},
+			{
+				"note": "c2",
+				"file": "json/CB_martele/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/CB_martele/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/CB_martele/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/CB_martele/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/CB_martele/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/CB_martele/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/CB_martele/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/CB_martele/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/CB_martele/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/CB_martele/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/CB_martele/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/CB_martele/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/CB_martele/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/CB_martele/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/CB_martele/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/CB_martele/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/CB_martele/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/CB_martele/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/CB_martele/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/CB_martele/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/CB_martele/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/CB_martele/a3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/CB_martele/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/CB_martele/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/CB_martele/cs4.json"
+			}
+		]
+	},
+	{
+		"instname": "CB_muted",
+		"notes": [
+			{
+				"note": "c1",
+				"file": "json/CB_muted/c1.json"
+			},
+			{
+				"note": "c#1",
+				"file": "json/CB_muted/cs1.json"
+			},
+			{
+				"note": "d1",
+				"file": "json/CB_muted/d1.json"
+			},
+			{
+				"note": "d#1",
+				"file": "json/CB_muted/ds1.json"
+			},
+			{
+				"note": "e1",
+				"file": "json/CB_muted/e1.json"
+			},
+			{
+				"note": "f1",
+				"file": "json/CB_muted/f1.json"
+			},
+			{
+				"note": "f#1",
+				"file": "json/CB_muted/fs1.json"
+			},
+			{
+				"note": "g1",
+				"file": "json/CB_muted/g1.json"
+			},
+			{
+				"note": "g#1",
+				"file": "json/CB_muted/gs1.json"
+			},
+			{
+				"note": "a1",
+				"file": "json/CB_muted/a1.json"
+			},
+			{
+				"note": "a#1",
+				"file": "json/CB_muted/as1.json"
+			},
+			{
+				"note": "b1",
+				"file": "json/CB_muted/b1.json"
+			},
+			{
+				"note": "c2",
+				"file": "json/CB_muted/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/CB_muted/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/CB_muted/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/CB_muted/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/CB_muted/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/CB_muted/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/CB_muted/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/CB_muted/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/CB_muted/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/CB_muted/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/CB_muted/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/CB_muted/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/CB_muted/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/CB_muted/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/CB_muted/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/CB_muted/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/CB_muted/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/CB_muted/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/CB_muted/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/CB_muted/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/CB_muted/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/CB_muted/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/CB_muted/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/CB_muted/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/CB_muted/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/CB_muted/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/CB_muted/d4.json"
+			}
+		]
+	},
+	{
+		"instname": "CB_pizz",
+		"notes": [
+			{
+				"note": "c1",
+				"file": "json/CB_pizz/c1.json"
+			},
+			{
+				"note": "c#1",
+				"file": "json/CB_pizz/cs1.json"
+			},
+			{
+				"note": "d1",
+				"file": "json/CB_pizz/d1.json"
+			},
+			{
+				"note": "d#1",
+				"file": "json/CB_pizz/ds1.json"
+			},
+			{
+				"note": "e1",
+				"file": "json/CB_pizz/e1.json"
+			},
+			{
+				"note": "f1",
+				"file": "json/CB_pizz/f1.json"
+			},
+			{
+				"note": "f#1",
+				"file": "json/CB_pizz/fs1.json"
+			},
+			{
+				"note": "g#1",
+				"file": "json/CB_pizz/gs1.json"
+			},
+			{
+				"note": "a1",
+				"file": "json/CB_pizz/a1.json"
+			},
+			{
+				"note": "a#1",
+				"file": "json/CB_pizz/as1.json"
+			},
+			{
+				"note": "b1",
+				"file": "json/CB_pizz/b1.json"
+			},
+			{
+				"note": "c2",
+				"file": "json/CB_pizz/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/CB_pizz/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/CB_pizz/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/CB_pizz/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/CB_pizz/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/CB_pizz/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/CB_pizz/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/CB_pizz/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/CB_pizz/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/CB_pizz/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/CB_pizz/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/CB_pizz/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/CB_pizz/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/CB_pizz/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/CB_pizz/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/CB_pizz/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/CB_pizz/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/CB_pizz/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/CB_pizz/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/CB_pizz/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/CB_pizz/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/CB_pizz/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/CB_pizz/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/CB_pizz/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/CB_pizz/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/CB_pizz/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/CB_pizz/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/CB_pizz/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/CB_pizz/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/CB_pizz/f4.json"
+			}
+		]
+	},
+	{
+		"instname": "cello_martele",
+		"notes": [
+			{
+				"note": "c2",
+				"file": "json/cello_martele/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/cello_martele/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/cello_martele/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/cello_martele/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/cello_martele/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/cello_martele/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/cello_martele/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/cello_martele/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/cello_martele/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/cello_martele/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/cello_martele/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/cello_martele/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/cello_martele/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/cello_martele/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/cello_martele/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/cello_martele/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/cello_martele/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/cello_martele/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/cello_martele/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/cello_martele/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/cello_martele/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/cello_martele/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/cello_martele/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/cello_martele/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/cello_martele/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/cello_martele/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/cello_martele/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/cello_martele/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/cello_martele/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/cello_martele/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/cello_martele/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/cello_martele/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/cello_martele/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/cello_martele/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/cello_martele/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/cello_martele/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/cello_martele/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/cello_martele/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/cello_martele/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/cello_martele/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/cello_martele/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/cello_martele/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/cello_martele/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/cello_martele/g5.json"
+			}
+		]
+	},
+	{
+		"instname": "cello_muted_vibrato",
+		"notes": [
+			{
+				"note": "c2",
+				"file": "json/cello_muted_vibrato/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/cello_muted_vibrato/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/cello_muted_vibrato/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/cello_muted_vibrato/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/cello_muted_vibrato/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/cello_muted_vibrato/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/cello_muted_vibrato/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/cello_muted_vibrato/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/cello_muted_vibrato/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/cello_muted_vibrato/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/cello_muted_vibrato/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/cello_muted_vibrato/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/cello_muted_vibrato/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/cello_muted_vibrato/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/cello_muted_vibrato/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/cello_muted_vibrato/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/cello_muted_vibrato/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/cello_muted_vibrato/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/cello_muted_vibrato/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/cello_muted_vibrato/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/cello_muted_vibrato/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/cello_muted_vibrato/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/cello_muted_vibrato/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/cello_muted_vibrato/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/cello_muted_vibrato/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/cello_muted_vibrato/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/cello_muted_vibrato/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/cello_muted_vibrato/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/cello_muted_vibrato/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/cello_muted_vibrato/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/cello_muted_vibrato/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/cello_muted_vibrato/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/cello_muted_vibrato/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/cello_muted_vibrato/a4.json"
+			}
+		]
+	},
+	{
+		"instname": "cello_pizzicato",
+		"notes": [
+			{
+				"note": "c2",
+				"file": "json/cello_pizzicato/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/cello_pizzicato/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/cello_pizzicato/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/cello_pizzicato/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/cello_pizzicato/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/cello_pizzicato/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/cello_pizzicato/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/cello_pizzicato/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/cello_pizzicato/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/cello_pizzicato/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/cello_pizzicato/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/cello_pizzicato/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/cello_pizzicato/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/cello_pizzicato/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/cello_pizzicato/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/cello_pizzicato/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/cello_pizzicato/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/cello_pizzicato/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/cello_pizzicato/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/cello_pizzicato/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/cello_pizzicato/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/cello_pizzicato/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/cello_pizzicato/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/cello_pizzicato/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/cello_pizzicato/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/cello_pizzicato/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/cello_pizzicato/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/cello_pizzicato/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/cello_pizzicato/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/cello_pizzicato/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/cello_pizzicato/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/cello_pizzicato/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/cello_pizzicato/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/cello_pizzicato/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/cello_pizzicato/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/cello_pizzicato/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/cello_pizzicato/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/cello_pizzicato/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/cello_pizzicato/d5.json"
+			}
+		]
+	},
+	{
+		"instname": "cello_vibrato",
+		"notes": [
+			{
+				"note": "c2",
+				"file": "json/cello_vibrato/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/cello_vibrato/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/cello_vibrato/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/cello_vibrato/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/cello_vibrato/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/cello_vibrato/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/cello_vibrato/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/cello_vibrato/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/cello_vibrato/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/cello_vibrato/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/cello_vibrato/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/cello_vibrato/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/cello_vibrato/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/cello_vibrato/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/cello_vibrato/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/cello_vibrato/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/cello_vibrato/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/cello_vibrato/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/cello_vibrato/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/cello_vibrato/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/cello_vibrato/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/cello_vibrato/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/cello_vibrato/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/cello_vibrato/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/cello_vibrato/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/cello_vibrato/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/cello_vibrato/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/cello_vibrato/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/cello_vibrato/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/cello_vibrato/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/cello_vibrato/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/cello_vibrato/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/cello_vibrato/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/cello_vibrato/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/cello_vibrato/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/cello_vibrato/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/cello_vibrato/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/cello_vibrato/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/cello_vibrato/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/cello_vibrato/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/cello_vibrato/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/cello_vibrato/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/cello_vibrato/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/cello_vibrato/g5.json"
+			}
+		]
+	},
+	{
+		"instname": "contrabass_clarinet",
+		"notes": [
+			{
+				"note": "f#1",
+				"file": "json/contrabass_clarinet/fs1.json"
+			},
+			{
+				"note": "g1",
+				"file": "json/contrabass_clarinet/g1.json"
+			},
+			{
+				"note": "g#1",
+				"file": "json/contrabass_clarinet/gs1.json"
+			},
+			{
+				"note": "a1",
+				"file": "json/contrabass_clarinet/a1.json"
+			},
+			{
+				"note": "a#1",
+				"file": "json/contrabass_clarinet/as1.json"
+			},
+			{
+				"note": "b1",
+				"file": "json/contrabass_clarinet/b1.json"
+			},
+			{
+				"note": "c2",
+				"file": "json/contrabass_clarinet/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/contrabass_clarinet/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/contrabass_clarinet/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/contrabass_clarinet/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/contrabass_clarinet/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/contrabass_clarinet/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/contrabass_clarinet/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/contrabass_clarinet/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/contrabass_clarinet/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/contrabass_clarinet/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/contrabass_clarinet/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/contrabass_clarinet/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/contrabass_clarinet/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/contrabass_clarinet/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/contrabass_clarinet/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/contrabass_clarinet/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/contrabass_clarinet/e3.json"
+			}
+		]
+	},
+	{
+		"instname": "contrabassoon",
+		"notes": [
+			{
+				"note": "a#0",
+				"file": "json/contrabassoon/as0.json"
+			},
+			{
+				"note": "b0",
+				"file": "json/contrabassoon/b0.json"
+			},
+			{
+				"note": "c1",
+				"file": "json/contrabassoon/c1.json"
+			},
+			{
+				"note": "c#1",
+				"file": "json/contrabassoon/cs1.json"
+			},
+			{
+				"note": "d1",
+				"file": "json/contrabassoon/d1.json"
+			},
+			{
+				"note": "d#1",
+				"file": "json/contrabassoon/ds1.json"
+			},
+			{
+				"note": "e1",
+				"file": "json/contrabassoon/e1.json"
+			},
+			{
+				"note": "f1",
+				"file": "json/contrabassoon/f1.json"
+			},
+			{
+				"note": "f#1",
+				"file": "json/contrabassoon/fs1.json"
+			},
+			{
+				"note": "g1",
+				"file": "json/contrabassoon/g1.json"
+			},
+			{
+				"note": "g#1",
+				"file": "json/contrabassoon/gs1.json"
+			},
+			{
+				"note": "a1",
+				"file": "json/contrabassoon/a1.json"
+			},
+			{
+				"note": "a#1",
+				"file": "json/contrabassoon/as1.json"
+			},
+			{
+				"note": "b1",
+				"file": "json/contrabassoon/b1.json"
+			},
+			{
+				"note": "c2",
+				"file": "json/contrabassoon/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/contrabassoon/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/contrabassoon/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/contrabassoon/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/contrabassoon/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/contrabassoon/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/contrabassoon/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/contrabassoon/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/contrabassoon/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/contrabassoon/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/contrabassoon/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/contrabassoon/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/contrabassoon/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/contrabassoon/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/contrabassoon/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/contrabassoon/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/contrabassoon/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/contrabassoon/f3.json"
+			}
+		]
+	},
+	{
+		"instname": "Eb_clarinet",
+		"notes": [
+			{
+				"note": "g3",
+				"file": "json/Eb_clarinet/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/Eb_clarinet/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/Eb_clarinet/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/Eb_clarinet/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/Eb_clarinet/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/Eb_clarinet/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/Eb_clarinet/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/Eb_clarinet/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/Eb_clarinet/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/Eb_clarinet/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/Eb_clarinet/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/Eb_clarinet/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/Eb_clarinet/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/Eb_clarinet/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/Eb_clarinet/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/Eb_clarinet/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/Eb_clarinet/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/Eb_clarinet/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/Eb_clarinet/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/Eb_clarinet/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/Eb_clarinet/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/Eb_clarinet/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/Eb_clarinet/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/Eb_clarinet/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/Eb_clarinet/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/Eb_clarinet/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/Eb_clarinet/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/Eb_clarinet/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/Eb_clarinet/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/Eb_clarinet/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/Eb_clarinet/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/Eb_clarinet/d6.json"
+			}
+		]
+	},
+	{
+		"instname": "English_horn",
+		"notes": [
+			{
+				"note": "e3",
+				"file": "json/English_horn/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/English_horn/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/English_horn/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/English_horn/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/English_horn/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/English_horn/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/English_horn/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/English_horn/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/English_horn/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/English_horn/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/English_horn/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/English_horn/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/English_horn/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/English_horn/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/English_horn/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/English_horn/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/English_horn/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/English_horn/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/English_horn/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/English_horn/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/English_horn/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/English_horn/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/English_horn/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/English_horn/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/English_horn/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/English_horn/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/English_horn/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/English_horn/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/English_horn/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/English_horn/a5.json"
+			}
+		]
+	},
+	{
+		"instname": "flute_vibrato",
+		"notes": [
+			{
+				"note": "c4",
+				"file": "json/flute_vibrato/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/flute_vibrato/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/flute_vibrato/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/flute_vibrato/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/flute_vibrato/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/flute_vibrato/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/flute_vibrato/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/flute_vibrato/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/flute_vibrato/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/flute_vibrato/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/flute_vibrato/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/flute_vibrato/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/flute_vibrato/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/flute_vibrato/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/flute_vibrato/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/flute_vibrato/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/flute_vibrato/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/flute_vibrato/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/flute_vibrato/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/flute_vibrato/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/flute_vibrato/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/flute_vibrato/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/flute_vibrato/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/flute_vibrato/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/flute_vibrato/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/flute_vibrato/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/flute_vibrato/d6.json"
+			},
+			{
+				"note": "d#6",
+				"file": "json/flute_vibrato/ds6.json"
+			},
+			{
+				"note": "e6",
+				"file": "json/flute_vibrato/e6.json"
+			},
+			{
+				"note": "f6",
+				"file": "json/flute_vibrato/f6.json"
+			},
+			{
+				"note": "f#6",
+				"file": "json/flute_vibrato/fs6.json"
+			},
+			{
+				"note": "g6",
+				"file": "json/flute_vibrato/g6.json"
+			},
+			{
+				"note": "g#6",
+				"file": "json/flute_vibrato/gs6.json"
+			},
+			{
+				"note": "a6",
+				"file": "json/flute_vibrato/a6.json"
+			},
+			{
+				"note": "a#6",
+				"file": "json/flute_vibrato/as6.json"
+			},
+			{
+				"note": "b6",
+				"file": "json/flute_vibrato/b6.json"
+			},
+			{
+				"note": "c7",
+				"file": "json/flute_vibrato/c7.json"
+			}
+		]
+	},
+	{
+		"instname": "French_horn",
+		"notes": [
+			{
+				"note": "d2",
+				"file": "json/French_horn/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/French_horn/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/French_horn/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/French_horn/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/French_horn/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/French_horn/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/French_horn/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/French_horn/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/French_horn/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/French_horn/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/French_horn/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/French_horn/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/French_horn/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/French_horn/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/French_horn/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/French_horn/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/French_horn/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/French_horn/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/French_horn/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/French_horn/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/French_horn/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/French_horn/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/French_horn/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/French_horn/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/French_horn/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/French_horn/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/French_horn/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/French_horn/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/French_horn/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/French_horn/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/French_horn/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/French_horn/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/French_horn/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/French_horn/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/French_horn/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/French_horn/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/French_horn/d5.json"
+			}
+		]
+	},
+	{
+		"instname": "French_horn_muted",
+		"notes": [
+			{
+				"note": "d2",
+				"file": "json/French_horn_muted/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/French_horn_muted/ds2.json"
+			},
+			{
+				"note": "e2",
+				"file": "json/French_horn_muted/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/French_horn_muted/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/French_horn_muted/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/French_horn_muted/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/French_horn_muted/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/French_horn_muted/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/French_horn_muted/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/French_horn_muted/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/French_horn_muted/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/French_horn_muted/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/French_horn_muted/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/French_horn_muted/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/French_horn_muted/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/French_horn_muted/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/French_horn_muted/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/French_horn_muted/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/French_horn_muted/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/French_horn_muted/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/French_horn_muted/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/French_horn_muted/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/French_horn_muted/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/French_horn_muted/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/French_horn_muted/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/French_horn_muted/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/French_horn_muted/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/French_horn_muted/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/French_horn_muted/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/French_horn_muted/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/French_horn_muted/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/French_horn_muted/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/French_horn_muted/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/French_horn_muted/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/French_horn_muted/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/French_horn_muted/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/French_horn_muted/d5.json"
+			}
+		]
+	},
+	{
+		"instname": "oboe",
+		"notes": [
+			{
+				"note": "a#3",
+				"file": "json/oboe/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/oboe/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/oboe/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/oboe/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/oboe/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/oboe/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/oboe/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/oboe/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/oboe/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/oboe/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/oboe/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/oboe/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/oboe/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/oboe/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/oboe/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/oboe/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/oboe/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/oboe/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/oboe/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/oboe/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/oboe/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/oboe/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/oboe/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/oboe/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/oboe/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/oboe/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/oboe/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/oboe/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/oboe/d6.json"
+			},
+			{
+				"note": "d#6",
+				"file": "json/oboe/ds6.json"
+			},
+			{
+				"note": "e6",
+				"file": "json/oboe/e6.json"
+			},
+			{
+				"note": "f6",
+				"file": "json/oboe/f6.json"
+			}
+		]
+	},
+	{
+		"instname": "piccolo",
+		"notes": [
+			{
+				"note": "d5",
+				"file": "json/piccolo/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/piccolo/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/piccolo/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/piccolo/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/piccolo/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/piccolo/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/piccolo/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/piccolo/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/piccolo/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/piccolo/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/piccolo/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/piccolo/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/piccolo/d6.json"
+			},
+			{
+				"note": "d#6",
+				"file": "json/piccolo/ds6.json"
+			},
+			{
+				"note": "e6",
+				"file": "json/piccolo/e6.json"
+			},
+			{
+				"note": "f6",
+				"file": "json/piccolo/f6.json"
+			},
+			{
+				"note": "f#6",
+				"file": "json/piccolo/fs6.json"
+			},
+			{
+				"note": "g6",
+				"file": "json/piccolo/g6.json"
+			},
+			{
+				"note": "g#6",
+				"file": "json/piccolo/gs6.json"
+			},
+			{
+				"note": "a6",
+				"file": "json/piccolo/a6.json"
+			},
+			{
+				"note": "a#6",
+				"file": "json/piccolo/as6.json"
+			},
+			{
+				"note": "b6",
+				"file": "json/piccolo/b6.json"
+			},
+			{
+				"note": "c7",
+				"file": "json/piccolo/c7.json"
+			},
+			{
+				"note": "c#7",
+				"file": "json/piccolo/cs7.json"
+			},
+			{
+				"note": "d7",
+				"file": "json/piccolo/d7.json"
+			},
+			{
+				"note": "d#7",
+				"file": "json/piccolo/ds7.json"
+			},
+			{
+				"note": "e7",
+				"file": "json/piccolo/e7.json"
+			},
+			{
+				"note": "f7",
+				"file": "json/piccolo/f7.json"
+			},
+			{
+				"note": "f#7",
+				"file": "json/piccolo/fs7.json"
+			},
+			{
+				"note": "g7",
+				"file": "json/piccolo/g7.json"
+			}
+		]
+	},
+	{
+		"instname": "trombone",
+		"notes": [
+			{
+				"note": "e2",
+				"file": "json/trombone/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/trombone/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/trombone/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/trombone/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/trombone/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/trombone/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/trombone/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/trombone/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/trombone/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/trombone/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/trombone/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/trombone/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/trombone/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/trombone/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/trombone/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/trombone/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/trombone/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/trombone/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/trombone/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/trombone/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/trombone/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/trombone/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/trombone/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/trombone/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/trombone/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/trombone/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/trombone/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/trombone/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/trombone/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/trombone/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/trombone/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/trombone/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/trombone/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/trombone/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/trombone/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/trombone/ds5.json"
+			}
+		]
+	},
+	{
+		"instname": "trombone_muted",
+		"notes": [
+			{
+				"note": "e2",
+				"file": "json/trombone_muted/e2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/trombone_muted/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/trombone_muted/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/trombone_muted/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/trombone_muted/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/trombone_muted/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/trombone_muted/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/trombone_muted/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/trombone_muted/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/trombone_muted/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/trombone_muted/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/trombone_muted/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/trombone_muted/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/trombone_muted/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/trombone_muted/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/trombone_muted/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/trombone_muted/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/trombone_muted/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/trombone_muted/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/trombone_muted/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/trombone_muted/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/trombone_muted/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/trombone_muted/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/trombone_muted/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/trombone_muted/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/trombone_muted/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/trombone_muted/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/trombone_muted/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/trombone_muted/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/trombone_muted/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/trombone_muted/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/trombone_muted/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/trombone_muted/c5.json"
+			}
+		]
+	},
+	{
+		"instname": "tuba",
+		"notes": [
+			{
+				"note": "c2",
+				"file": "json/tuba/c2.json"
+			},
+			{
+				"note": "c#2",
+				"file": "json/tuba/cs2.json"
+			},
+			{
+				"note": "d2",
+				"file": "json/tuba/d2.json"
+			},
+			{
+				"note": "d#2",
+				"file": "json/tuba/ds2.json"
+			},
+			{
+				"note": "f2",
+				"file": "json/tuba/f2.json"
+			},
+			{
+				"note": "f#2",
+				"file": "json/tuba/fs2.json"
+			},
+			{
+				"note": "g2",
+				"file": "json/tuba/g2.json"
+			},
+			{
+				"note": "g#2",
+				"file": "json/tuba/gs2.json"
+			},
+			{
+				"note": "a2",
+				"file": "json/tuba/a2.json"
+			},
+			{
+				"note": "a#2",
+				"file": "json/tuba/as2.json"
+			},
+			{
+				"note": "b2",
+				"file": "json/tuba/b2.json"
+			},
+			{
+				"note": "c3",
+				"file": "json/tuba/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/tuba/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/tuba/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/tuba/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/tuba/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/tuba/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/tuba/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/tuba/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/tuba/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/tuba/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/tuba/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/tuba/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/tuba/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/tuba/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/tuba/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/tuba/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/tuba/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/tuba/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/tuba/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/tuba/g4.json"
+			}
+		]
+	},
+	{
+		"instname": "viola_martele",
+		"notes": [
+			{
+				"note": "c3",
+				"file": "json/viola_martele/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/viola_martele/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/viola_martele/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/viola_martele/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/viola_martele/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/viola_martele/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/viola_martele/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/viola_martele/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/viola_martele/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/viola_martele/a3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/viola_martele/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/viola_martele/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/viola_martele/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/viola_martele/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/viola_martele/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/viola_martele/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/viola_martele/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/viola_martele/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/viola_martele/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/viola_martele/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/viola_martele/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/viola_martele/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/viola_martele/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/viola_martele/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/viola_martele/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/viola_martele/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/viola_martele/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/viola_martele/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/viola_martele/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/viola_martele/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/viola_martele/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/viola_martele/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/viola_martele/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/viola_martele/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/viola_martele/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/viola_martele/c6.json"
+			}
+		]
+	},
+	{
+		"instname": "viola_muted_vibrato",
+		"notes": [
+			{
+				"note": "c3",
+				"file": "json/viola_muted_vibrato/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/viola_muted_vibrato/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/viola_muted_vibrato/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/viola_muted_vibrato/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/viola_muted_vibrato/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/viola_muted_vibrato/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/viola_muted_vibrato/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/viola_muted_vibrato/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/viola_muted_vibrato/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/viola_muted_vibrato/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/viola_muted_vibrato/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/viola_muted_vibrato/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/viola_muted_vibrato/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/viola_muted_vibrato/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/viola_muted_vibrato/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/viola_muted_vibrato/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/viola_muted_vibrato/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/viola_muted_vibrato/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/viola_muted_vibrato/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/viola_muted_vibrato/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/viola_muted_vibrato/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/viola_muted_vibrato/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/viola_muted_vibrato/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/viola_muted_vibrato/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/viola_muted_vibrato/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/viola_muted_vibrato/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/viola_muted_vibrato/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/viola_muted_vibrato/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/viola_muted_vibrato/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/viola_muted_vibrato/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/viola_muted_vibrato/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/viola_muted_vibrato/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/viola_muted_vibrato/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/viola_muted_vibrato/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/viola_muted_vibrato/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/viola_muted_vibrato/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/viola_muted_vibrato/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/viola_muted_vibrato/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/viola_muted_vibrato/d6.json"
+			}
+		]
+	},
+	{
+		"instname": "viola_pizzicato",
+		"notes": [
+			{
+				"note": "c3",
+				"file": "json/viola_pizzicato/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/viola_pizzicato/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/viola_pizzicato/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/viola_pizzicato/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/viola_pizzicato/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/viola_pizzicato/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/viola_pizzicato/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/viola_pizzicato/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/viola_pizzicato/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/viola_pizzicato/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/viola_pizzicato/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/viola_pizzicato/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/viola_pizzicato/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/viola_pizzicato/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/viola_pizzicato/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/viola_pizzicato/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/viola_pizzicato/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/viola_pizzicato/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/viola_pizzicato/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/viola_pizzicato/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/viola_pizzicato/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/viola_pizzicato/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/viola_pizzicato/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/viola_pizzicato/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/viola_pizzicato/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/viola_pizzicato/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/viola_pizzicato/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/viola_pizzicato/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/viola_pizzicato/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/viola_pizzicato/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/viola_pizzicato/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/viola_pizzicato/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/viola_pizzicato/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/viola_pizzicato/a5.json"
+			}
+		]
+	},
+	{
+		"instname": "viola_vibrato",
+		"notes": [
+			{
+				"note": "c3",
+				"file": "json/viola_vibrato/c3.json"
+			},
+			{
+				"note": "c#3",
+				"file": "json/viola_vibrato/cs3.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/viola_vibrato/d3.json"
+			},
+			{
+				"note": "d#3",
+				"file": "json/viola_vibrato/ds3.json"
+			},
+			{
+				"note": "e3",
+				"file": "json/viola_vibrato/e3.json"
+			},
+			{
+				"note": "f3",
+				"file": "json/viola_vibrato/f3.json"
+			},
+			{
+				"note": "f#3",
+				"file": "json/viola_vibrato/fs3.json"
+			},
+			{
+				"note": "g3",
+				"file": "json/viola_vibrato/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/viola_vibrato/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/viola_vibrato/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/viola_vibrato/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/viola_vibrato/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/viola_vibrato/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/viola_vibrato/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/viola_vibrato/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/viola_vibrato/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/viola_vibrato/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/viola_vibrato/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/viola_vibrato/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/viola_vibrato/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/viola_vibrato/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/viola_vibrato/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/viola_vibrato/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/viola_vibrato/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/viola_vibrato/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/viola_vibrato/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/viola_vibrato/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/viola_vibrato/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/viola_vibrato/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/viola_vibrato/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/viola_vibrato/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/viola_vibrato/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/viola_vibrato/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/viola_vibrato/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/viola_vibrato/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/viola_vibrato/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/viola_vibrato/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/viola_vibrato/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/viola_vibrato/d6.json"
+			}
+		]
+	},
+	{
+		"instname": "violin_martele",
+		"notes": [
+			{
+				"note": "g3",
+				"file": "json/violin_martele/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/violin_martele/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/violin_martele/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/violin_martele/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/violin_martele/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/violin_martele/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/violin_martele/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/violin_martele/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/violin_martele/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/violin_martele/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/violin_martele/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/violin_martele/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/violin_martele/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/violin_martele/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/violin_martele/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/violin_martele/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/violin_martele/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/violin_martele/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/violin_martele/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/violin_martele/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/violin_martele/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/violin_martele/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/violin_martele/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/violin_martele/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/violin_martele/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/violin_martele/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/violin_martele/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/violin_martele/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/violin_martele/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/violin_martele/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/violin_martele/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/violin_martele/d6.json"
+			},
+			{
+				"note": "d#6",
+				"file": "json/violin_martele/ds6.json"
+			},
+			{
+				"note": "e6",
+				"file": "json/violin_martele/e6.json"
+			}
+		]
+	},
+	{
+		"instname": "violin_muted_vibrato",
+		"notes": [
+			{
+				"note": "g3",
+				"file": "json/violin_muted_vibrato/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/violin_muted_vibrato/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/violin_muted_vibrato/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/violin_muted_vibrato/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/violin_muted_vibrato/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/violin_muted_vibrato/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/violin_muted_vibrato/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/violin_muted_vibrato/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/violin_muted_vibrato/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/violin_muted_vibrato/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/violin_muted_vibrato/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/violin_muted_vibrato/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/violin_muted_vibrato/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/violin_muted_vibrato/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/violin_muted_vibrato/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/violin_muted_vibrato/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/violin_muted_vibrato/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/violin_muted_vibrato/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/violin_muted_vibrato/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/violin_muted_vibrato/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/violin_muted_vibrato/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/violin_muted_vibrato/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/violin_muted_vibrato/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/violin_muted_vibrato/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/violin_muted_vibrato/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/violin_muted_vibrato/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/violin_muted_vibrato/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/violin_muted_vibrato/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/violin_muted_vibrato/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/violin_muted_vibrato/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/violin_muted_vibrato/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/violin_muted_vibrato/d6.json"
+			},
+			{
+				"note": "d#6",
+				"file": "json/violin_muted_vibrato/ds6.json"
+			},
+			{
+				"note": "e6",
+				"file": "json/violin_muted_vibrato/e6.json"
+			},
+			{
+				"note": "f6",
+				"file": "json/violin_muted_vibrato/f6.json"
+			},
+			{
+				"note": "f#6",
+				"file": "json/violin_muted_vibrato/fs6.json"
+			},
+			{
+				"note": "g6",
+				"file": "json/violin_muted_vibrato/g6.json"
+			},
+			{
+				"note": "g#6",
+				"file": "json/violin_muted_vibrato/gs6.json"
+			},
+			{
+				"note": "a6",
+				"file": "json/violin_muted_vibrato/a6.json"
+			},
+			{
+				"note": "a#6",
+				"file": "json/violin_muted_vibrato/as6.json"
+			},
+			{
+				"note": "b6",
+				"file": "json/violin_muted_vibrato/b6.json"
+			},
+			{
+				"note": "c7",
+				"file": "json/violin_muted_vibrato/c7.json"
+			}
+		]
+	},
+	{
+		"instname": "violin_pizzicato",
+		"notes": [
+			{
+				"note": "g3",
+				"file": "json/violin_pizzicato/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/violin_pizzicato/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/violin_pizzicato/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/violin_pizzicato/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/violin_pizzicato/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/violin_pizzicato/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/violin_pizzicato/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/violin_pizzicato/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/violin_pizzicato/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/violin_pizzicato/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/violin_pizzicato/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/violin_pizzicato/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/violin_pizzicato/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/violin_pizzicato/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/violin_pizzicato/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/violin_pizzicato/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/violin_pizzicato/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/violin_pizzicato/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/violin_pizzicato/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/violin_pizzicato/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/violin_pizzicato/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/violin_pizzicato/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/violin_pizzicato/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/violin_pizzicato/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/violin_pizzicato/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/violin_pizzicato/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/violin_pizzicato/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/violin_pizzicato/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/violin_pizzicato/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/violin_pizzicato/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/violin_pizzicato/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/violin_pizzicato/d6.json"
+			},
+			{
+				"note": "d#6",
+				"file": "json/violin_pizzicato/ds6.json"
+			},
+			{
+				"note": "e6",
+				"file": "json/violin_pizzicato/e6.json"
+			},
+			{
+				"note": "f6",
+				"file": "json/violin_pizzicato/f6.json"
+			},
+			{
+				"note": "f#6",
+				"file": "json/violin_pizzicato/fs6.json"
+			},
+			{
+				"note": "g6",
+				"file": "json/violin_pizzicato/g6.json"
+			}
+		]
+	},
+	{
+		"instname": "violin_vibrato",
+		"notes": [
+			{
+				"note": "g3",
+				"file": "json/violin_vibrato/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/violin_vibrato/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/violin_vibrato/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/violin_vibrato/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/violin_vibrato/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/violin_vibrato/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/violin_vibrato/cs4.json"
+			},
+			{
+				"note": "d4",
+				"file": "json/violin_vibrato/d4.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/violin_vibrato/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/violin_vibrato/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/violin_vibrato/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/violin_vibrato/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/violin_vibrato/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/violin_vibrato/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/violin_vibrato/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/violin_vibrato/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/violin_vibrato/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/violin_vibrato/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/violin_vibrato/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/violin_vibrato/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/violin_vibrato/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/violin_vibrato/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/violin_vibrato/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/violin_vibrato/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/violin_vibrato/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/violin_vibrato/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/violin_vibrato/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/violin_vibrato/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/violin_vibrato/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/violin_vibrato/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/violin_vibrato/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/violin_vibrato/d6.json"
+			},
+			{
+				"note": "d#6",
+				"file": "json/violin_vibrato/ds6.json"
+			},
+			{
+				"note": "e6",
+				"file": "json/violin_vibrato/e6.json"
+			},
+			{
+				"note": "f6",
+				"file": "json/violin_vibrato/f6.json"
+			},
+			{
+				"note": "f#6",
+				"file": "json/violin_vibrato/fs6.json"
+			},
+			{
+				"note": "g6",
+				"file": "json/violin_vibrato/g6.json"
+			},
+			{
+				"note": "g#6",
+				"file": "json/violin_vibrato/gs6.json"
+			},
+			{
+				"note": "a6",
+				"file": "json/violin_vibrato/a6.json"
+			},
+			{
+				"note": "a#6",
+				"file": "json/violin_vibrato/as6.json"
+			},
+			{
+				"note": "b6",
+				"file": "json/violin_vibrato/b6.json"
+			},
+			{
+				"note": "c7",
+				"file": "json/violin_vibrato/c7.json"
+			}
+		]
+	},
+	{
+		"instname": "violinensemb",
+		"notes": [
+			{
+				"note": "g3",
+				"file": "json/violinensemb/g3.json"
+			},
+			{
+				"note": "g#3",
+				"file": "json/violinensemb/gs3.json"
+			},
+			{
+				"note": "a3",
+				"file": "json/violinensemb/a3.json"
+			},
+			{
+				"note": "a#3",
+				"file": "json/violinensemb/as3.json"
+			},
+			{
+				"note": "b3",
+				"file": "json/violinensemb/b3.json"
+			},
+			{
+				"note": "c4",
+				"file": "json/violinensemb/c4.json"
+			},
+			{
+				"note": "c#4",
+				"file": "json/violinensemb/cs4.json"
+			},
+			{
+				"note": "d3",
+				"file": "json/violinensemb/d3.json"
+			},
+			{
+				"note": "d#4",
+				"file": "json/violinensemb/ds4.json"
+			},
+			{
+				"note": "e4",
+				"file": "json/violinensemb/e4.json"
+			},
+			{
+				"note": "f4",
+				"file": "json/violinensemb/f4.json"
+			},
+			{
+				"note": "f#4",
+				"file": "json/violinensemb/fs4.json"
+			},
+			{
+				"note": "g4",
+				"file": "json/violinensemb/g4.json"
+			},
+			{
+				"note": "g#4",
+				"file": "json/violinensemb/gs4.json"
+			},
+			{
+				"note": "a4",
+				"file": "json/violinensemb/a4.json"
+			},
+			{
+				"note": "a#4",
+				"file": "json/violinensemb/as4.json"
+			},
+			{
+				"note": "b4",
+				"file": "json/violinensemb/b4.json"
+			},
+			{
+				"note": "c5",
+				"file": "json/violinensemb/c5.json"
+			},
+			{
+				"note": "c#5",
+				"file": "json/violinensemb/cs5.json"
+			},
+			{
+				"note": "d5",
+				"file": "json/violinensemb/d5.json"
+			},
+			{
+				"note": "d#5",
+				"file": "json/violinensemb/ds5.json"
+			},
+			{
+				"note": "e5",
+				"file": "json/violinensemb/e5.json"
+			},
+			{
+				"note": "f5",
+				"file": "json/violinensemb/f5.json"
+			},
+			{
+				"note": "f#5",
+				"file": "json/violinensemb/fs5.json"
+			},
+			{
+				"note": "g5",
+				"file": "json/violinensemb/g5.json"
+			},
+			{
+				"note": "g#5",
+				"file": "json/violinensemb/gs5.json"
+			},
+			{
+				"note": "a5",
+				"file": "json/violinensemb/a5.json"
+			},
+			{
+				"note": "a#5",
+				"file": "json/violinensemb/as5.json"
+			},
+			{
+				"note": "b5",
+				"file": "json/violinensemb/b5.json"
+			},
+			{
+				"note": "c6",
+				"file": "json/violinensemb/c6.json"
+			},
+			{
+				"note": "c#6",
+				"file": "json/violinensemb/cs6.json"
+			},
+			{
+				"note": "d6",
+				"file": "json/violinensemb/d6.json"
+			},
+			{
+				"note": "d#6",
+				"file": "json/violinensemb/ds6.json"
+			},
+			{
+				"note": "e6",
+				"file": "json/violinensemb/e6.json"
+			},
+			{
+				"note": "f6",
+				"file": "json/violinensemb/f6.json"
+			},
+			{
+				"note": "f#6",
+				"file": "json/violinensemb/fs6.json"
+			},
+			{
+				"note": "g6",
+				"file": "json/violinensemb/g6.json"
+			},
+			{
+				"note": "g#6",
+				"file": "json/violinensemb/gs6.json"
+			},
+			{
+				"note": "a6",
+				"file": "json/violinensemb/a6.json"
+			},
+			{
+				"note": "a#6",
+				"file": "json/violinensemb/as6.json"
+			},
+			{
+				"note": "b6",
+				"file": "json/violinensemb/b6.json"
+			},
+			{
+				"note": "c7",
+				"file": "json/violinensemb/c7.json"
+			},
+			{
+				"note": "c#7",
+				"file": "json/violinensemb/cs7.json"
+			},
+			{
+				"note": "d7",
+				"file": "json/violinensemb/d7.json"
+			}
+		]
+	}]

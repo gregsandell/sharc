@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+<instrument id="oboe" name="Oboe" source="McGill" cd="2" track="8" numNotes="32">
+<ranges>
+<lowest>
+<harmonicFreq harmNum="1" keyNum="46" pitch="as3">233.08</harmonicFreq>
+<pitch fundHz="233.08" keyNum="46">as3</pitch>
+<amplitude freqHz="9888.84" keyNum="52" pitch="e4" fundHz="329.628" harmNum="30">0.32</amplitude>
+</lowest>
+<highest>
+<pitch fundHz="1396.91" keyNum="77">f6</pitch>
+<harmonicFreq harmNum="43" keyNum="46" pitch="as3">10022.52</harmonicFreq>
+<amplitude freqHz="1318.51" keyNum="64" harmNum="2" pitch="e5" fundHz="659.255">10359.0</amplitude>
+</highest>
+<pitches>as3 b3 c4 cs4 d4 ds4 e4 f4 fs4 g4 gs4 a4 as4 b4 c5 cs5 d5 ds5 e5 f5 fs5 g5 gs5 a5 as5 b5 c6 cs6 d6 ds6 e6 f6</pitches>
+</ranges>
+<note pitch="as3" seq="1" keyNum="46" fundHz="233.082" numHarms="43">
+<ranges>
+<lowest>
+<amplitude freqHz="8157.87" harmNum="35">0.82</amplitude>
+<harmonicFreq harmNum="1">233.08</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="43">10022.52</harmonicFreq>
+<amplitude freqHz="1165.4" harmNum="5">6367.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="2.589">1218.94</a>
+<a n="2" p="0.722">1570.61</a>
+<a n="3" p="-1.378">3223.07</a>
+<a n="4" p="2.696">2304.36</a>
+<a n="5" p="1.553">6367.0</a>
+<a n="6" p="-0.12">2537.99</a>
+<a n="7" p="-0.616">1022.76</a>
+<a n="8" p="-2.894">568.72</a>
+<a n="9" p="-2.288">187.49</a>
+<a n="10" p="-2.962">606.61</a>
+<a n="11" p="2.375">990.88</a>
+<a n="12" p="0.645">372.82</a>
+<a n="13" p="-0.468">367.5</a>
+<a n="14" p="-1.298">222.96</a>
+<a n="15" p="2.493">162.46</a>
+<a n="16" p="-0.095">93.38</a>
+<a n="17" p="-2.747">77.53</a>
+<a n="18" p="1.564">85.07</a>
+<a n="19" p="0.351">44.51</a>
+<a n="20" p="-2.034">21.06</a>
+<a n="21" p="2.936">83.95</a>
+<a n="22" p="2.276">18.26</a>
+<a n="23" p="-0.619">24.04</a>
+<a n="24" p="-1.577">39.63</a>
+<a n="25" p="2.795">3.6</a>
+<a n="26" p="-0.502">3.81</a>
+<a n="27" p="-0.367">8.39</a>
+<a n="28" p="-0.954">3.86</a>
+<a n="29" p="0.379">2.43</a>
+<a n="30" p="0.298">4.2</a>
+<a n="31" p="0.913">3.09</a>
+<a n="32" p="2.526">1.61</a>
+<a n="33" p="2.64">1.28</a>
+<a n="34" p="-2.711">1.14</a>
+<a n="35" p="1.977">0.82</a>
+<a n="36" p="0.493">1.69</a>
+<a n="37" p="1.438">2.68</a>
+<a n="38" p="2.65">2.7</a>
+<a n="39" p="2.549">3.56</a>
+<a n="40" p="-3.023">3.65</a>
+<a n="41" p="-2.613">3.54</a>
+<a n="42" p="-2.684">3.4</a>
+<a n="43" p="-2.733">1.19</a>
+</note>
+<note pitch="b3" seq="2" keyNum="47" fundHz="246.942" numHarms="40">
+<ranges>
+<lowest>
+<amplitude freqHz="7161.31" harmNum="29">1.33</amplitude>
+<harmonicFreq harmNum="1">246.94</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="40">9877.68</harmonicFreq>
+<amplitude freqHz="1234.71" harmNum="5">5719.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-0.648">2507.43</a>
+<a n="2" p="-0.363">936.45</a>
+<a n="3" p="0.246">4240.12</a>
+<a n="4" p="0.997">3493.9</a>
+<a n="5" p="2.242">5719.0</a>
+<a n="6" p="2.26">3315.5</a>
+<a n="7" p="-2.831">649.13</a>
+<a n="8" p="-1.394">52.48</a>
+<a n="9" p="2.744">184.03</a>
+<a n="10" p="2.487">144.34</a>
+<a n="11" p="-0.028">114.14</a>
+<a n="12" p="-0.855">917.4</a>
+<a n="13" p="-0.484">416.61</a>
+<a n="14" p="0.076">373.73</a>
+<a n="15" p="1.151">258.87</a>
+<a n="16" p="1.726">178.91</a>
+<a n="17" p="2.048">222.87</a>
+<a n="18" p="2.624">91.78</a>
+<a n="19" p="-2.636">56.58</a>
+<a n="20" p="-1.0">44.26</a>
+<a n="21" p="-2.077">3.6</a>
+<a n="22" p="-0.474">40.59</a>
+<a n="23" p="1.09">14.43</a>
+<a n="24" p="1.603">14.65</a>
+<a n="25" p="0.709">15.7</a>
+<a n="26" p="1.6">17.45</a>
+<a n="27" p="1.12">1.55</a>
+<a n="28" p="2.676">6.82</a>
+<a n="29" p="0.879">1.33</a>
+<a n="30" p="-2.851">4.05</a>
+<a n="31" p="1.781">2.68</a>
+<a n="32" p="-2.697">4.58</a>
+<a n="33" p="2.278">5.63</a>
+<a n="34" p="-2.274">2.17</a>
+<a n="35" p="2.327">5.1</a>
+<a n="36" p="-2.073">3.73</a>
+<a n="37" p="2.227">3.68</a>
+<a n="38" p="-2.854">2.85</a>
+<a n="39" p="1.99">3.6</a>
+<a n="40" p="-2.974">4.48</a>
+</note>
+<note pitch="c4" seq="3" keyNum="48" fundHz="261.626" numHarms="38">
+<ranges>
+<lowest>
+<amplitude freqHz="9941.78" harmNum="38">0.39</amplitude>
+<harmonicFreq harmNum="1">261.62</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="38">9941.78</harmonicFreq>
+<amplitude freqHz="1308.12" harmNum="5">5374.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-1.898">2931.55</a>
+<a n="2" p="-1.427">749.7</a>
+<a n="3" p="-2.018">2679.48</a>
+<a n="4" p="-1.442">4936.02</a>
+<a n="5" p="-1.666">5374.0</a>
+<a n="6" p="-2.94">2510.78</a>
+<a n="7" p="2.653">307.69</a>
+<a n="8" p="-0.539">442.5</a>
+<a n="9" p="-0.461">739.29</a>
+<a n="10" p="-0.158">533.49</a>
+<a n="11" p="1.196">461.5</a>
+<a n="12" p="1.036">497.54</a>
+<a n="13" p="0.515">304.65</a>
+<a n="14" p="0.372">24.51</a>
+<a n="15" p="0.261">48.97</a>
+<a n="16" p="-0.36">14.76</a>
+<a n="17" p="-1.328">81.97</a>
+<a n="18" p="-0.321">46.85</a>
+<a n="19" p="-1.236">15.9</a>
+<a n="20" p="-0.637">16.62</a>
+<a n="21" p="-1.955">5.99</a>
+<a n="22" p="0.059">12.37</a>
+<a n="23" p="2.646">12.1</a>
+<a n="24" p="-1.893">14.92</a>
+<a n="25" p="-2.83">8.73</a>
+<a n="26" p="0.162">7.61</a>
+<a n="27" p="-2.509">5.91</a>
+<a n="28" p="0.026">5.99</a>
+<a n="29" p="-2.957">4.04</a>
+<a n="30" p="0.216">7.88</a>
+<a n="31" p="-2.17">3.73</a>
+<a n="32" p="0.469">4.88</a>
+<a n="33" p="-2.555">1.84</a>
+<a n="34" p="0.314">5.87</a>
+<a n="35" p="-0.708">0.82</a>
+<a n="36" p="0.223">2.38</a>
+<a n="37" p="-0.0060">1.58</a>
+<a n="38" p="-3.096">0.39</a>
+</note>
+<note pitch="cs4" seq="4" keyNum="49" fundHz="277.183" numHarms="36">
+<ranges>
+<lowest>
+<amplitude freqHz="8869.85" harmNum="32">1.32</amplitude>
+<harmonicFreq harmNum="1">277.18</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="36">9978.58</harmonicFreq>
+<amplitude freqHz="554.36" harmNum="2">4385.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-0.187">3980.36</a>
+<a n="2" p="2.349">4385.0</a>
+<a n="3" p="-2.367">2967.87</a>
+<a n="4" p="0.757">3135.84</a>
+<a n="5" p="2.949">2308.18</a>
+<a n="6" p="-0.363">3943.59</a>
+<a n="7" p="3.046">1308.69</a>
+<a n="8" p="0.901">1125.01</a>
+<a n="9" p="-2.952">1360.61</a>
+<a n="10" p="-0.411">563.12</a>
+<a n="11" p="1.584">714.8</a>
+<a n="12" p="-2.582">880.3</a>
+<a n="13" p="-0.481">519.64</a>
+<a n="14" p="1.555">403.55</a>
+<a n="15" p="-2.472">382.91</a>
+<a n="16" p="-0.818">244.79</a>
+<a n="17" p="0.854">157.19</a>
+<a n="18" p="-2.882">67.9</a>
+<a n="19" p="0.853">181.81</a>
+<a n="20" p="2.467">105.68</a>
+<a n="21" p="-1.181">77.71</a>
+<a n="22" p="1.389">31.05</a>
+<a n="23" p="1.816">23.24</a>
+<a n="24" p="-0.82">10.72</a>
+<a n="25" p="-2.72">20.14</a>
+<a n="26" p="1.022">9.99</a>
+<a n="27" p="0.016">7.7</a>
+<a n="28" p="-1.325">13.83</a>
+<a n="29" p="1.211">5.26</a>
+<a n="30" p="2.663">10.62</a>
+<a n="31" p="-0.325">4.16</a>
+<a n="32" p="-1.306">1.32</a>
+<a n="33" p="2.912">7.17</a>
+<a n="34" p="0.726">8.11</a>
+<a n="35" p="-2.468">4.3</a>
+<a n="36" p="-2.425">5.52</a>
+</note>
+<note pitch="d4" seq="5" keyNum="50" fundHz="293.665" numHarms="34">
+<ranges>
+<lowest>
+<amplitude freqHz="9984.61" harmNum="34">1.72</amplitude>
+<harmonicFreq harmNum="1">293.66</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="34">9984.61</harmonicFreq>
+<amplitude freqHz="1174.66" harmNum="4">5760.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="0.166">3378.84</a>
+<a n="2" p="2.868">4307.86</a>
+<a n="3" p="-1.346">2954.56</a>
+<a n="4" p="1.662">5760.0</a>
+<a n="5" p="-0.473">1611.45</a>
+<a n="6" p="1.835">745.55</a>
+<a n="7" p="-2.371">98.17</a>
+<a n="8" p="-0.939">191.38</a>
+<a n="9" p="-3.09">600.28</a>
+<a n="10" p="0.369">881.14</a>
+<a n="11" p="1.837">536.44</a>
+<a n="12" p="-2.107">238.7</a>
+<a n="13" p="-0.367">131.05</a>
+<a n="14" p="-0.934">25.26</a>
+<a n="15" p="1.487">66.17</a>
+<a n="16" p="2.527">52.57</a>
+<a n="17" p="-1.2">47.35</a>
+<a n="18" p="1.038">36.2</a>
+<a n="19" p="1.574">17.38</a>
+<a n="20" p="0.26">12.29</a>
+<a n="21" p="2.7">10.56</a>
+<a n="22" p="-2.064">15.3</a>
+<a n="23" p="-2.771">4.4</a>
+<a n="24" p="1.875">3.69</a>
+<a n="25" p="-0.204">2.62</a>
+<a n="26" p="-0.664">6.27</a>
+<a n="27" p="-2.8">9.63</a>
+<a n="28" p="1.841">9.01</a>
+<a n="29" p="0.688">6.99</a>
+<a n="30" p="-1.572">7.23</a>
+<a n="31" p="2.596">3.16</a>
+<a n="32" p="1.291">3.52</a>
+<a n="33" p="-2.008">2.56</a>
+<a n="34" p="1.779">1.72</a>
+</note>
+<note pitch="ds4" seq="6" keyNum="51" fundHz="311.127" numHarms="32">
+<ranges>
+<lowest>
+<amplitude freqHz="9644.93" harmNum="31">0.82</amplitude>
+<harmonicFreq harmNum="1">311.12</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="32">9956.06</harmonicFreq>
+<amplitude freqHz="1244.5" harmNum="4">6238.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-0.06">3928.36</a>
+<a n="2" p="2.919">4737.38</a>
+<a n="3" p="-1.765">4289.6</a>
+<a n="4" p="1.228">6238.0</a>
+<a n="5" p="1.455">847.21</a>
+<a n="6" p="1.001">132.05</a>
+<a n="7" p="2.594">231.32</a>
+<a n="8" p="0.636">772.39</a>
+<a n="9" p="2.913">260.34</a>
+<a n="10" p="-0.354">767.32</a>
+<a n="11" p="1.535">312.55</a>
+<a n="12" p="-2.701">80.03</a>
+<a n="13" p="-0.344">42.78</a>
+<a n="14" p="-1.83">5.34</a>
+<a n="15" p="0.284">15.1</a>
+<a n="16" p="-1.72">12.76</a>
+<a n="17" p="2.792">9.04</a>
+<a n="18" p="-2.398">11.43</a>
+<a n="19" p="0.295">4.36</a>
+<a n="20" p="0.863">4.17</a>
+<a n="21" p="1.095">8.2</a>
+<a n="22" p="-1.269">1.94</a>
+<a n="23" p="2.789">2.55</a>
+<a n="24" p="2.254">4.24</a>
+<a n="25" p="0.453">6.51</a>
+<a n="26" p="-2.853">2.76</a>
+<a n="27" p="-2.461">4.79</a>
+<a n="28" p="1.182">3.06</a>
+<a n="29" p="-0.396">1.58</a>
+<a n="30" p="2.702">2.51</a>
+<a n="31" p="-1.908">0.82</a>
+<a n="32" p="2.403">3.9</a>
+</note>
+<note pitch="e4" seq="7" keyNum="52" fundHz="329.628" numHarms="30">
+<ranges>
+<lowest>
+<amplitude freqHz="9888.84" harmNum="30">0.32</amplitude>
+<harmonicFreq harmNum="1">329.62</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="30">9888.84</harmonicFreq>
+<amplitude freqHz="1318.51" harmNum="4">5119.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-1.908">2278.17</a>
+<a n="2" p="-1.323">3875.09</a>
+<a n="3" p="-0.827">2718.73</a>
+<a n="4" p="-2.039">5119.0</a>
+<a n="5" p="-3.042">1399.12</a>
+<a n="6" p="-2.893">106.17</a>
+<a n="7" p="-3.041">107.8</a>
+<a n="8" p="-1.148">262.64</a>
+<a n="9" p="-0.161">422.52</a>
+<a n="10" p="-1.956">82.72</a>
+<a n="11" p="-2.205">63.34</a>
+<a n="12" p="0.981">39.29</a>
+<a n="13" p="1.207">9.41</a>
+<a n="14" p="-0.488">34.71</a>
+<a n="15" p="0.414">24.25</a>
+<a n="16" p="1.257">25.27</a>
+<a n="17" p="-2.502">4.03</a>
+<a n="18" p="2.154">6.91</a>
+<a n="19" p="2.642">8.17</a>
+<a n="20" p="2.111">9.85</a>
+<a n="21" p="2.631">4.03</a>
+<a n="22" p="1.713">8.89</a>
+<a n="23" p="3.14">6.83</a>
+<a n="24" p="-0.526">2.11</a>
+<a n="25" p="-2.16">0.66</a>
+<a n="26" p="-1.965">1.23</a>
+<a n="27" p="-2.302">3.73</a>
+<a n="28" p="-1.767">6.41</a>
+<a n="29" p="-1.126">3.23</a>
+<a n="30" p="-2.777">0.32</a>
+</note>
+<note pitch="f4" seq="8" keyNum="53" fundHz="349.228" numHarms="28">
+<ranges>
+<lowest>
+<amplitude freqHz="9778.38" harmNum="28">1.57</amplitude>
+<harmonicFreq harmNum="1">349.22</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="28">9778.38</harmonicFreq>
+<amplitude freqHz="1047.68" harmNum="3">3962.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="0.542">3574.29</a>
+<a n="2" p="-2.542">3704.81</a>
+<a n="3" p="0.832">3962.0</a>
+<a n="4" p="1.159">2225.64</a>
+<a n="5" p="2.904">1944.71</a>
+<a n="6" p="-2.905">280.79</a>
+<a n="7" p="1.55">467.76</a>
+<a n="8" p="-2.345">353.44</a>
+<a n="9" p="1.236">195.31</a>
+<a n="10" p="-3.004">226.75</a>
+<a n="11" p="0.979">43.23</a>
+<a n="12" p="-2.274">26.52</a>
+<a n="13" p="0.276">17.0</a>
+<a n="14" p="2.484">57.81</a>
+<a n="15" p="-1.946">7.65</a>
+<a n="16" p="-1.559">6.53</a>
+<a n="17" p="-1.075">2.62</a>
+<a n="18" p="3.031">6.21</a>
+<a n="19" p="1.323">2.54</a>
+<a n="20" p="1.467">5.28</a>
+<a n="21" p="-0.311">2.24</a>
+<a n="22" p="-1.974">6.89</a>
+<a n="23" p="2.434">2.69</a>
+<a n="24" p="2.897">3.73</a>
+<a n="25" p="-2.779">1.63</a>
+<a n="26" p="1.657">6.32</a>
+<a n="27" p="-2.063">2.83</a>
+<a n="28" p="-0.034">1.57</a>
+</note>
+<note pitch="fs4" seq="9" keyNum="54" fundHz="369.994" numHarms="26">
+<ranges>
+<lowest>
+<amplitude freqHz="6659.89" harmNum="18">2.94</amplitude>
+<harmonicFreq harmNum="1">369.99</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="26">9619.84</harmonicFreq>
+<amplitude freqHz="1109.98" harmNum="3">5453.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="2.282">3949.72</a>
+<a n="2" p="1.748">5293.32</a>
+<a n="3" p="1.025">5453.0</a>
+<a n="4" p="0.384">4580.79</a>
+<a n="5" p="-0.905">1188.12</a>
+<a n="6" p="3.025">616.48</a>
+<a n="7" p="2.194">558.84</a>
+<a n="8" p="-0.335">94.28</a>
+<a n="9" p="-3.026">392.74</a>
+<a n="10" p="1.962">109.66</a>
+<a n="11" p="-0.422">54.54</a>
+<a n="12" p="-1.906">58.08</a>
+<a n="13" p="-0.811">25.53</a>
+<a n="14" p="0.307">18.83</a>
+<a n="15" p="0.651">87.01</a>
+<a n="16" p="2.91">27.09</a>
+<a n="17" p="-2.915">12.73</a>
+<a n="18" p="-2.865">2.94</a>
+<a n="19" p="0.386">11.53</a>
+<a n="20" p="0.851">10.14</a>
+<a n="21" p="2.353">8.53</a>
+<a n="22" p="2.544">15.95</a>
+<a n="23" p="-1.698">8.96</a>
+<a n="24" p="-1.686">8.94</a>
+<a n="25" p="-2.199">7.16</a>
+<a n="26" p="-2.074">3.58</a>
+</note>
+<note pitch="g4" seq="10" keyNum="55" fundHz="391.995" numHarms="25">
+<ranges>
+<lowest>
+<amplitude freqHz="7447.9" harmNum="19">0.52</amplitude>
+<harmonicFreq harmNum="1">391.99</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="25">9799.87</harmonicFreq>
+<amplitude freqHz="1175.98" harmNum="3">5398.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-1.563">2191.51</a>
+<a n="2" p="0.422">3559.05</a>
+<a n="3" p="2.155">5398.0</a>
+<a n="4" p="-0.892">2510.54</a>
+<a n="5" p="2.138">942.43</a>
+<a n="6" p="0.81">266.08</a>
+<a n="7" p="1.547">1263.31</a>
+<a n="8" p="2.978">493.57</a>
+<a n="9" p="1.355">159.09</a>
+<a n="10" p="-2.619">120.0</a>
+<a n="11" p="0.268">74.78</a>
+<a n="12" p="0.974">9.83</a>
+<a n="13" p="0.373">55.54</a>
+<a n="14" p="1.099">32.69</a>
+<a n="15" p="-1.483">24.7</a>
+<a n="16" p="0.859">30.82</a>
+<a n="17" p="-2.866">2.14</a>
+<a n="18" p="2.517">9.96</a>
+<a n="19" p="2.652">0.52</a>
+<a n="20" p="2.836">11.97</a>
+<a n="21" p="0.886">16.76</a>
+<a n="22" p="3.024">9.11</a>
+<a n="23" p="1.271">6.01</a>
+<a n="24" p="-2.722">6.1</a>
+<a n="25" p="-1.769">7.13</a>
+</note>
+<note pitch="gs4" seq="11" keyNum="56" fundHz="415.305" numHarms="24">
+<ranges>
+<lowest>
+<amplitude freqHz="8721.4" harmNum="21">0.83</amplitude>
+<harmonicFreq harmNum="1">415.3</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="24">9967.32</harmonicFreq>
+<amplitude freqHz="1245.91" harmNum="3">7402.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-2.994">2329.72</a>
+<a n="2" p="-1.696">4124.97</a>
+<a n="3" p="-1.973">7402.0</a>
+<a n="4" p="-0.161">6244.38</a>
+<a n="5" p="2.511">1022.37</a>
+<a n="6" p="-2.773">1559.49</a>
+<a n="7" p="-2.085">339.9</a>
+<a n="8" p="0.723">583.02</a>
+<a n="9" p="0.496">240.4</a>
+<a n="10" p="-1.142">25.64</a>
+<a n="11" p="-0.326">67.04</a>
+<a n="12" p="0.093">32.67</a>
+<a n="13" p="-2.182">68.21</a>
+<a n="14" p="-1.863">18.57</a>
+<a n="15" p="-0.951">12.09</a>
+<a n="16" p="2.21">10.37</a>
+<a n="17" p="-0.969">6.31</a>
+<a n="18" p="-2.21">5.24</a>
+<a n="19" p="-2.691">18.98</a>
+<a n="20" p="-0.709">9.46</a>
+<a n="21" p="-1.495">0.83</a>
+<a n="22" p="-1.98">2.38</a>
+<a n="23" p="-0.059">4.99</a>
+<a n="24" p="0.368">6.24</a>
+</note>
+<note pitch="a4" seq="12" keyNum="57" fundHz="440.0" numHarms="22">
+<ranges>
+<lowest>
+<amplitude freqHz="7040.0" harmNum="16">3.55</amplitude>
+<harmonicFreq harmNum="1">440.0</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="22">9680.0</harmonicFreq>
+<amplitude freqHz="880.0" harmNum="2">6185.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="1.88">1683.13</a>
+<a n="2" p="0.303">6185.0</a>
+<a n="3" p="-1.983">3095.37</a>
+<a n="4" p="-3.061">3124.72</a>
+<a n="5" p="-2.233">572.01</a>
+<a n="6" p="-2.853">1205.59</a>
+<a n="7" p="0.158">410.97</a>
+<a n="8" p="2.425">860.52</a>
+<a n="9" p="1.054">189.73</a>
+<a n="10" p="3.072">131.97</a>
+<a n="11" p="0.078">341.71</a>
+<a n="12" p="2.976">47.08</a>
+<a n="13" p="-0.741">19.3</a>
+<a n="14" p="0.824">29.87</a>
+<a n="15" p="2.053">8.82</a>
+<a n="16" p="1.932">3.55</a>
+<a n="17" p="-2.12">8.67</a>
+<a n="18" p="-3.01">32.29</a>
+<a n="19" p="1.133">20.46</a>
+<a n="20" p="0.786">24.65</a>
+<a n="21" p="-0.36">11.43</a>
+<a n="22" p="2.491">5.37</a>
+</note>
+<note pitch="as4" seq="13" keyNum="58" fundHz="466.164" numHarms="21">
+<ranges>
+<lowest>
+<amplitude freqHz="9789.44" harmNum="21">4.38</amplitude>
+<harmonicFreq harmNum="1">466.16</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="21">9789.44</harmonicFreq>
+<amplitude freqHz="932.32" harmNum="2">5014.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="0.747">2592.48</a>
+<a n="2" p="-1.973">5014.0</a>
+<a n="3" p="2.231">1405.31</a>
+<a n="4" p="-1.127">949.93</a>
+<a n="5" p="1.485">432.3</a>
+<a n="6" p="-2.604">296.84</a>
+<a n="7" p="-1.185">1170.37</a>
+<a n="8" p="1.201">486.04</a>
+<a n="9" p="-3.05">179.31</a>
+<a n="10" p="-1.476">106.61</a>
+<a n="11" p="0.784">43.59</a>
+<a n="12" p="-2.454">27.4</a>
+<a n="13" p="-2.76">28.0</a>
+<a n="14" p="0.601">28.04</a>
+<a n="15" p="1.599">12.0</a>
+<a n="16" p="-1.154">6.52</a>
+<a n="17" p="1.054">26.28</a>
+<a n="18" p="-0.284">8.46</a>
+<a n="19" p="3.097">11.55</a>
+<a n="20" p="0.107">19.5</a>
+<a n="21" p="1.061">4.38</a>
+</note>
+<note pitch="b4" seq="14" keyNum="59" fundHz="493.883" numHarms="20">
+<ranges>
+<lowest>
+<amplitude freqHz="6420.47" harmNum="13">3.04</amplitude>
+<harmonicFreq harmNum="1">493.88</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="20">9877.66</harmonicFreq>
+<amplitude freqHz="987.76" harmNum="2">4877.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="2.354">2199.01</a>
+<a n="2" p="1.168">4877.0</a>
+<a n="3" p="3.053">434.3</a>
+<a n="4" p="0.149">422.46</a>
+<a n="5" p="-1.767">267.48</a>
+<a n="6" p="-0.228">1187.37</a>
+<a n="7" p="1.301">410.79</a>
+<a n="8" p="-0.727">274.96</a>
+<a n="9" p="2.941">374.11</a>
+<a n="10" p="-0.217">57.96</a>
+<a n="11" p="1.594">85.28</a>
+<a n="12" p="-1.195">22.61</a>
+<a n="13" p="2.318">3.04</a>
+<a n="14" p="0.48">38.53</a>
+<a n="15" p="0.086">7.86</a>
+<a n="16" p="2.139">15.67</a>
+<a n="17" p="1.425">26.9</a>
+<a n="18" p="0.444">6.11</a>
+<a n="19" p="2.765">17.85</a>
+<a n="20" p="2.125">13.82</a>
+</note>
+<note pitch="c5" seq="15" keyNum="60" fundHz="523.251" numHarms="19">
+<ranges>
+<lowest>
+<amplitude freqHz="8895.26" harmNum="17">6.02</amplitude>
+<harmonicFreq harmNum="1">523.25</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="19">9941.76</harmonicFreq>
+<amplitude freqHz="1046.5" harmNum="2">3380.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="0.31">1316.94</a>
+<a n="2" p="3.117">3380.0</a>
+<a n="3" p="-0.097">578.76</a>
+<a n="4" p="-1.368">1539.72</a>
+<a n="5" p="-0.604">264.51</a>
+<a n="6" p="-0.734">1579.59</a>
+<a n="7" p="0.876">88.45</a>
+<a n="8" p="2.915">299.15</a>
+<a n="9" p="-2.582">132.4</a>
+<a n="10" p="-1.535">101.05</a>
+<a n="11" p="-2.769">11.85</a>
+<a n="12" p="-2.397">24.1</a>
+<a n="13" p="2.159">9.18</a>
+<a n="14" p="2.712">18.93</a>
+<a n="15" p="-0.949">16.78</a>
+<a n="16" p="-2.007">20.85</a>
+<a n="17" p="-2.237">6.02</a>
+<a n="18" p="1.225">15.3</a>
+<a n="19" p="-0.013">9.94</a>
+</note>
+<note pitch="cs5" seq="16" keyNum="61" fundHz="554.365" numHarms="17">
+<ranges>
+<lowest>
+<amplitude freqHz="8315.47" harmNum="15">4.52</amplitude>
+<harmonicFreq harmNum="1">554.36</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="17">9424.2</harmonicFreq>
+<amplitude freqHz="1108.73" harmNum="2">8782.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="0.033">7137.05</a>
+<a n="2" p="2.046">8782.0</a>
+<a n="3" p="1.396">1495.38</a>
+<a n="4" p="0.367">794.2</a>
+<a n="5" p="2.772">2045.28</a>
+<a n="6" p="-2.734">1073.51</a>
+<a n="7" p="-0.43">268.14</a>
+<a n="8" p="-1.206">110.01</a>
+<a n="9" p="-0.904">178.91</a>
+<a n="10" p="1.331">96.58</a>
+<a n="11" p="1.676">111.49</a>
+<a n="12" p="-2.192">8.21</a>
+<a n="13" p="-0.032">8.6</a>
+<a n="14" p="-0.439">24.65</a>
+<a n="15" p="-1.12">4.52</a>
+<a n="16" p="2.014">22.55</a>
+<a n="17" p="1.731">19.88</a>
+</note>
+<note pitch="d5" seq="17" keyNum="62" fundHz="587.33" numHarms="16">
+<ranges>
+<lowest>
+<amplitude freqHz="7635.29" harmNum="13">6.9</amplitude>
+<harmonicFreq harmNum="1">587.33</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="16">9397.28</harmonicFreq>
+<amplitude freqHz="1174.66" harmNum="2">7155.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-0.238">4866.88</a>
+<a n="2" p="1.894">7155.0</a>
+<a n="3" p="1.992">556.63</a>
+<a n="4" p="0.065">373.73</a>
+<a n="5" p="1.583">1580.3</a>
+<a n="6" p="1.942">595.75</a>
+<a n="7" p="0.085">81.61</a>
+<a n="8" p="1.666">156.61</a>
+<a n="9" p="-2.88">84.65</a>
+<a n="10" p="-2.772">174.02</a>
+<a n="11" p="-2.838">33.35</a>
+<a n="12" p="2.054">9.64</a>
+<a n="13" p="1.264">6.9</a>
+<a n="14" p="0.818">7.54</a>
+<a n="15" p="-1.677">8.67</a>
+<a n="16" p="-2.767">12.81</a>
+</note>
+<note pitch="ds5" seq="18" keyNum="63" fundHz="622.254" numHarms="15">
+<ranges>
+<lowest>
+<amplitude freqHz="8089.3" harmNum="13">0.46</amplitude>
+<harmonicFreq harmNum="1">622.25</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="15">9333.81</harmonicFreq>
+<amplitude freqHz="1244.5" harmNum="2">7475.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="2.539">3172.56</a>
+<a n="2" p="1.201">7475.0</a>
+<a n="3" p="-1.497">317.71</a>
+<a n="4" p="-1.715">317.09</a>
+<a n="5" p="0.121">651.7</a>
+<a n="6" p="-2.206">151.19</a>
+<a n="7" p="-2.215">52.19</a>
+<a n="8" p="2.748">105.2</a>
+<a n="9" p="0.12">33.07</a>
+<a n="10" p="2.412">38.97</a>
+<a n="11" p="0.205">7.63</a>
+<a n="12" p="2.187">3.59</a>
+<a n="13" p="-1.036">0.46</a>
+<a n="14" p="-0.867">3.8</a>
+<a n="15" p="0.053">3.27</a>
+</note>
+<note pitch="e5" seq="19" keyNum="64" fundHz="659.255" numHarms="15">
+<ranges>
+<lowest>
+<amplitude freqHz="8570.31" harmNum="13">7.22</amplitude>
+<harmonicFreq harmNum="1">659.25</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="15">9888.82</harmonicFreq>
+<amplitude freqHz="1318.51" harmNum="2">10359.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="0.744">5385.46</a>
+<a n="2" p="1.826">10359.0</a>
+<a n="3" p="-1.232">490.39</a>
+<a n="4" p="-0.426">743.09</a>
+<a n="5" p="1.13">305.57</a>
+<a n="6" p="2.078">152.79</a>
+<a n="7" p="1.217">155.07</a>
+<a n="8" p="1.991">80.24</a>
+<a n="9" p="-2.748">62.98</a>
+<a n="10" p="2.679">16.45</a>
+<a n="11" p="2.658">16.38</a>
+<a n="12" p="-2.954">9.12</a>
+<a n="13" p="-2.635">7.22</a>
+<a n="14" p="-0.314">9.67</a>
+<a n="15" p="-0.737">7.76</a>
+</note>
+<note pitch="f5" seq="20" keyNum="65" fundHz="698.456" numHarms="14">
+<ranges>
+<lowest>
+<amplitude freqHz="6984.56" harmNum="10">1.05</amplitude>
+<harmonicFreq harmNum="1">698.45</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="14">9778.38</harmonicFreq>
+<amplitude freqHz="1396.91" harmNum="2">4927.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="0.627">2285.38</a>
+<a n="2" p="1.825">4927.0</a>
+<a n="3" p="-1.135">199.25</a>
+<a n="4" p="1.554">315.11</a>
+<a n="5" p="2.134">283.47</a>
+<a n="6" p="-2.263">35.64</a>
+<a n="7" p="1.346">38.32</a>
+<a n="8" p="-2.356">9.63</a>
+<a n="9" p="-2.415">17.79</a>
+<a n="10" p="1.305">1.05</a>
+<a n="11" p="-0.186">1.78</a>
+<a n="12" p="-2.655">3.83</a>
+<a n="13" p="2.835">2.14</a>
+<a n="14" p="-1.299">2.63</a>
+</note>
+<note pitch="fs5" seq="21" keyNum="66" fundHz="739.989" numHarms="13">
+<ranges>
+<lowest>
+<amplitude freqHz="9619.85" harmNum="13">2.64</amplitude>
+<harmonicFreq harmNum="1">739.98</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="13">9619.85</harmonicFreq>
+<amplitude freqHz="739.98" harmNum="1">3471.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-1.249">3471.0</a>
+<a n="2" p="-2.525">2555.47</a>
+<a n="3" p="-1.801">534.34</a>
+<a n="4" p="-2.522">744.65</a>
+<a n="5" p="1.415">276.41</a>
+<a n="6" p="0.605">26.27</a>
+<a n="7" p="-2.673">47.85</a>
+<a n="8" p="1.97">3.53</a>
+<a n="9" p="0.51">5.82</a>
+<a n="10" p="-0.0060">6.58</a>
+<a n="11" p="-1.951">7.9</a>
+<a n="12" p="-0.338">3.85</a>
+<a n="13" p="-0.586">2.64</a>
+</note>
+<note pitch="g5" seq="22" keyNum="67" fundHz="783.991" numHarms="12">
+<ranges>
+<lowest>
+<amplitude freqHz="4703.94" harmNum="6">1.58</amplitude>
+<harmonicFreq harmNum="1">783.99</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="12">9407.89</harmonicFreq>
+<amplitude freqHz="783.99" harmNum="1">3662.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="1.588">3662.0</a>
+<a n="2" p="0.674">2097.17</a>
+<a n="3" p="-0.641">530.21</a>
+<a n="4" p="1.375">910.73</a>
+<a n="5" p="2.375">682.62</a>
+<a n="6" p="1.473">1.58</a>
+<a n="7" p="2.092">57.37</a>
+<a n="8" p="1.648">7.99</a>
+<a n="9" p="2.141">5.18</a>
+<a n="10" p="2.167">1.96</a>
+<a n="11" p="2.433">20.84</a>
+<a n="12" p="2.51">7.02</a>
+</note>
+<note pitch="gs5" seq="23" keyNum="68" fundHz="830.609" numHarms="12">
+<ranges>
+<lowest>
+<amplitude freqHz="6644.87" harmNum="8">1.83</amplitude>
+<harmonicFreq harmNum="1">830.6</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="12">9967.3</harmonicFreq>
+<amplitude freqHz="1661.21" harmNum="2">5776.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-2.372">5486.45</a>
+<a n="2" p="-1.264">5776.0</a>
+<a n="3" p="-2.579">1162.52</a>
+<a n="4" p="1.941">142.78</a>
+<a n="5" p="-1.374">739.54</a>
+<a n="6" p="-1.219">169.27</a>
+<a n="7" p="-1.3">41.63</a>
+<a n="8" p="1.249">1.83</a>
+<a n="9" p="-1.312">5.34</a>
+<a n="10" p="-0.088">29.1</a>
+<a n="11" p="0.604">11.94</a>
+<a n="12" p="2.075">16.81</a>
+</note>
+<note pitch="a5" seq="24" keyNum="69" fundHz="880.0" numHarms="11">
+<ranges>
+<lowest>
+<amplitude freqHz="7920.0" harmNum="9">5.55</amplitude>
+<harmonicFreq harmNum="1">880.0</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="11">9680.0</harmonicFreq>
+<amplitude freqHz="880.0" harmNum="1">6111.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="2.22">6111.0</a>
+<a n="2" p="0.841">5423.72</a>
+<a n="3" p="-1.546">594.02</a>
+<a n="4" p="0.115">562.81</a>
+<a n="5" p="-2.391">323.5</a>
+<a n="6" p="-1.097">64.79</a>
+<a n="7" p="-0.145">61.57</a>
+<a n="8" p="2.75">6.25</a>
+<a n="9" p="-0.548">5.55</a>
+<a n="10" p="0.072">7.9</a>
+<a n="11" p="-0.809">8.77</a>
+</note>
+<note pitch="as5" seq="25" keyNum="70" fundHz="932.328" numHarms="10">
+<ranges>
+<lowest>
+<amplitude freqHz="7458.62" harmNum="8">7.34</amplitude>
+<harmonicFreq harmNum="1">932.32</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="10">9323.27</harmonicFreq>
+<amplitude freqHz="932.32" harmNum="1">5332.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-1.864">5332.0</a>
+<a n="2" p="-1.177">460.1</a>
+<a n="3" p="-1.834">1202.29</a>
+<a n="4" p="0.375">297.85</a>
+<a n="5" p="2.113">276.61</a>
+<a n="6" p="-2.278">132.92</a>
+<a n="7" p="0.103">17.12</a>
+<a n="8" p="-2.867">7.34</a>
+<a n="9" p="0.401">13.57</a>
+<a n="10" p="0.538">15.3</a>
+</note>
+<note pitch="b5" seq="26" keyNum="71" fundHz="987.767" numHarms="9">
+<ranges>
+<lowest>
+<amplitude freqHz="7902.13" harmNum="8">8.82</amplitude>
+<harmonicFreq harmNum="1">987.76</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="9">8889.9</harmonicFreq>
+<amplitude freqHz="987.76" harmNum="1">5621.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-1.701">5621.0</a>
+<a n="2" p="-0.529">1411.8</a>
+<a n="3" p="-2.526">877.22</a>
+<a n="4" p="-0.874">269.82</a>
+<a n="5" p="2.986">258.6</a>
+<a n="6" p="0.371">38.19</a>
+<a n="7" p="-0.592">11.11</a>
+<a n="8" p="0.565">8.82</a>
+<a n="9" p="-0.066">9.23</a>
+</note>
+<note pitch="c6" seq="27" keyNum="72" fundHz="1046.5" numHarms="9">
+<ranges>
+<lowest>
+<amplitude freqHz="9418.5" harmNum="9">20.99</amplitude>
+<harmonicFreq harmNum="1">1046.5</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="9">9418.5</harmonicFreq>
+<amplitude freqHz="1046.5" harmNum="1">3660.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="1.48">3660.0</a>
+<a n="2" p="0.723">1087.06</a>
+<a n="3" p="0.896">1788.36</a>
+<a n="4" p="1.128">926.07</a>
+<a n="5" p="3.128">249.02</a>
+<a n="6" p="3.085">44.85</a>
+<a n="7" p="-2.924">50.15</a>
+<a n="8" p="-2.863">22.09</a>
+<a n="9" p="-2.805">20.99</a>
+</note>
+<note pitch="cs6" seq="28" keyNum="73" fundHz="1108.73" numHarms="8">
+<ranges>
+<lowest>
+<amplitude freqHz="7761.11" harmNum="7">9.77</amplitude>
+<harmonicFreq harmNum="1">1108.73</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="8">8869.84</harmonicFreq>
+<amplitude freqHz="1108.73" harmNum="1">6046.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-1.768">6046.0</a>
+<a n="2" p="-2.346">1058.48</a>
+<a n="3" p="-0.958">769.03</a>
+<a n="4" p="-1.554">416.64</a>
+<a n="5" p="-2.639">122.82</a>
+<a n="6" p="0.81">72.43</a>
+<a n="7" p="2.144">9.77</a>
+<a n="8" p="0.956">16.18</a>
+</note>
+<note pitch="d6" seq="29" keyNum="74" fundHz="1174.66" numHarms="8">
+<ranges>
+<lowest>
+<amplitude freqHz="8222.62" harmNum="7">3.85</amplitude>
+<harmonicFreq harmNum="1">1174.66</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="8">9397.28</harmonicFreq>
+<amplitude freqHz="1174.66" harmNum="1">4385.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-1.284">4385.0</a>
+<a n="2" p="-2.182">2256.13</a>
+<a n="3" p="-2.782">2446.33</a>
+<a n="4" p="2.768">725.04</a>
+<a n="5" p="-1.513">115.57</a>
+<a n="6" p="-0.0050">52.36</a>
+<a n="7" p="-0.167">3.85</a>
+<a n="8" p="0.3">14.77</a>
+</note>
+<note pitch="ds6" seq="30" keyNum="75" fundHz="1244.51" numHarms="7">
+<ranges>
+<lowest>
+<amplitude freqHz="8711.57" harmNum="7">9.06</amplitude>
+<harmonicFreq harmNum="1">1244.51</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="7">8711.57</harmonicFreq>
+<amplitude freqHz="1244.51" harmNum="1">6906.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="1.806">6906.0</a>
+<a n="2" p="0.129">868.51</a>
+<a n="3" p="-0.223">1309.02</a>
+<a n="4" p="-2.875">256.71</a>
+<a n="5" p="-2.575">116.67</a>
+<a n="6" p="-0.408">29.87</a>
+<a n="7" p="-0.325">9.06</a>
+</note>
+<note pitch="e6" seq="31" keyNum="76" fundHz="1318.51" numHarms="7">
+<ranges>
+<lowest>
+<amplitude freqHz="9229.57" harmNum="7">2.71</amplitude>
+<harmonicFreq harmNum="1">1318.51</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="7">9229.57</harmonicFreq>
+<amplitude freqHz="1318.51" harmNum="1">5099.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-1.603">5099.0</a>
+<a n="2" p="-2.808">247.79</a>
+<a n="3" p="-1.928">589.43</a>
+<a n="4" p="2.786">93.27</a>
+<a n="5" p="-2.142">13.96</a>
+<a n="6" p="0.841">7.89</a>
+<a n="7" p="1.441">2.71</a>
+</note>
+<note pitch="f6" seq="32" keyNum="77" fundHz="1396.91" numHarms="7">
+<ranges>
+<lowest>
+<amplitude freqHz="8381.46" harmNum="6">20.93</amplitude>
+<harmonicFreq harmNum="1">1396.91</harmonicFreq>
+</lowest>
+<highest>
+<harmonicFreq harmNum="7">9778.37</harmonicFreq>
+<amplitude freqHz="4190.73" harmNum="3">2411.0</amplitude>
+</highest>
+</ranges>
+<a n="1" p="-0.183">1043.15</a>
+<a n="2" p="-1.982">1558.04</a>
+<a n="3" p="-2.872">2411.0</a>
+<a n="4" p="-1.556">195.08</a>
+<a n="5" p="1.625">73.35</a>
+<a n="6" p="-2.258">20.93</a>
+<a n="7" p="-2.259">73.43</a>
+</note>
+</instrument>
+</tree>

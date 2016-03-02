@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree> <instrument id="flute_vibrato" name="Flute" source="McGill" cd="2" track="1" numNotes="37"><note pitch="c4" seq="1" keyNum="48" fundHz="261.626" numHarms="37"> <a n="1" p="2.613">983.6</a> <a n="2" p="-0.878">2957.0</a> </note> </instrument> </tree>
